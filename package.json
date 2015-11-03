@@ -1,0 +1,15 @@
+{
+  "name": "react-thinking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Fritz <kyle.p.fritz@gmail.com>",
+  "private": "true",
+  "license": "ISC",
+  "dependencies": {
+    "prez": "^4.5.0"
+  }
+}
